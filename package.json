@@ -1,0 +1,27 @@
+{
+  "name": "node-and-firebase",
+  "version": "1.0.0",
+  "description": "Node with Firebase",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "~1.0.0",
+    "express": "~4.0.0",
+    "firebase": "^3.6.0",
+    "mysql": "*",
+    "dotenv":"*",
+    "serialport": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AlejoYarce@bitbucket.org/emetrobotics/node-and-firebase.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Alejo Yarce <alejo.yarce@emet-robotics.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/emetrobotics/node-and-firebase#readme"
+}
